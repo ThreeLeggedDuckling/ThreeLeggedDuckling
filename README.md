@@ -28,4 +28,3 @@
 ## 📊 GitHub Stats:
 ![Mélusine's GitHub languages stats](https://github-readme-stats.vercel.app/api?username=ThreeLeggedDuckling&show_icons=true&layout=compact&bg_color=00000000&include_all_commits=true&count_private=true)
 ![Mélusine's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ThreeLeggedDuckling&hide_border=false&layout=compact&bg_color=00000000&include_all_commits=true&count_private=true)
-![Mélusine's GitHub Top Contributed Repo stats](https://github-contributor-stats.vercel.app/api?username=ThreeLeggedDuckling&limit=5&combine_all_yearly_contributions=true&layout=compact&bg_color=00000000)
