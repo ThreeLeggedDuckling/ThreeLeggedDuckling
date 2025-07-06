@@ -8,14 +8,14 @@
 🗣️ I'm fluent in French and English, my Dutch is okay-ish but I'm working on it<br>
 
 ## 🗃️ Projects
-- 2025 · 🖥️ **Mon Bureau** · A desktop environment simulation, internship project at [CRIL54](https://cril54.fr/)
-  > [**Repo**](https://github.com/ThreeLeggedDuckling/desktop-environment-sim) · ~~Demo~~
+- **2025 · 🖥️ Mon Bureau** - A desktop environment simulation, internship project at [CRIL54](https://cril54.fr/)
+  > [**Repo**](https://github.com/ThreeLeggedDuckling/desktop-environment-sim) - ~~Demo~~ *(soon)*
 
-- 2024 · 🍻 **Table Tavern** · PHP/Symfony end course
-  > [**Repo**](https://github.com/ThreeLeggedDuckling/I3WAD_SymfonyProject) · ~~Demo~~
+- **2024 · 🍻 Table Tavern** - PHP/Symfony end course
+  > [**Repo**](https://github.com/ThreeLeggedDuckling/I3WAD_SymfonyProject) - ~~Demo~~
 
-- 2024 · ☁️ **Carbon Quest** · 3 days Hackaton at [Interface3](https://interface3.be/fr/se-former-pour-l-emploi/it-training-formations-en-informatique/web-application-developer)
-  > [**Repo**](https://github.com/TamVdb/itf3_Hackathon_CarbonQuest-local) · [**Demo**](https://carbon-quest-bay.vercel.app/)
+- **2024 · ☁️ Carbon Quest** - 3 days Hackaton at [Interface3](https://interface3.be/fr/se-former-pour-l-emploi/it-training-formations-en-informatique/web-application-developer)
+  > [**Repo**](https://github.com/TamVdb/itf3_Hackathon_CarbonQuest-local) - [**Demo**](https://carbon-quest-bay.vercel.app/)
 
 ## 🧰 Languages and Tools I Can Work With
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
